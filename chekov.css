@@ -1,0 +1,39 @@
+
+.speech {
+    font-family: 'YourSpeechFont', sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+
+.direction {
+    font-family: 'YourDirectionFont', sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: lightyellow;
+}
+
+.direction:hover {
+    background-color: lightblue;
+    color: white;
+}
+.name{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ANDREY {
+    color: #3366cc;
+
+}
+
+.NATASHA {
+    color: #cc6633;
+
+}
+
+.ANDREY {
+    color: #339933;
+    
+}
+
