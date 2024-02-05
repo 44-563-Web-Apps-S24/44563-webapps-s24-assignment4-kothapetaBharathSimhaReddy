@@ -32,7 +32,31 @@
     
 }
 
-.ANDREY {
+.FERAPONT {
     color: #339933;
 }
+
+
+.table {
+    border-color:rgba(15, 181, 120, 0.705);
+    width: 50%;
+    text-align: center;
+    padding: 12px;
+    margin: 12px;
+}
+th {
+    border: 2px solid;
+    border-radius: 4px;
+    border-color: rgb(150, 78, 5);
+    color:red;
+    height: 50px;
+    background-color:rgba(0, 255, 4, 0.858);
+}
+td {
+    border: 2px solid;
+    border-radius: 4px;
+    border-color:rgb(55, 28, 138);
+    height: 30px;
+}
+
 
