@@ -61,20 +61,28 @@ td {
 
 tr:hover {background-color: antiquewhite;}
 
-.MARINA:hover {
+.ANDREY:hover {
     font-size: medium;
     color:hotpink;
     text-shadow:0 0 10px darkorange;
     border-style: groove;
     border-radius: 6px;
 }
-.ASTROFF:hover {
+.FERAPONT:hover {
     font-size: medium;
     color:mediumspringgreen;
     text-shadow: 0 0 10px gray;
     border-style: groove ;
     border-radius: 6px;
 }
+.NATASHA:hover{
+    font-size: medium;
+    color:mediumspringgreen;
+    text-shadow: 0 0 10px gray;
+    border-style: groove ;
+    border-radius: 6px;
+}
+
 
     u1.navbar-horizontal {
     list-style-type: none;
